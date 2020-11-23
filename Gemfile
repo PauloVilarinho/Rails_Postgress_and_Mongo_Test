@@ -31,6 +31,7 @@ group :development, :test do
   gem 'pry', '~> 0.13.1'
   gem 'pry-rails'
   gem 'factory_bot_rails'
+  gem 'mongoid', '~> 7.0.5' 
 end
 
 group :development do
